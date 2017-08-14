@@ -2,7 +2,7 @@
 layout: post
 title: Bloc Chat
 thumbnail-path: "img/blocchat.png"
-short-description: Create chatrooms using FirebaseArray and AngularJS
+short-description: Create chatrooms using FirebaseArray and AngularJS.
 
 ---
 
