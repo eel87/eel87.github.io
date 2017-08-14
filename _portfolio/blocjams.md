@@ -2,7 +2,7 @@
 layout: post
 title: BlocJams
 thumbnail-path: "img/blocjamshome.png"
-short-description: BlocJams is a Spotify music player replica for listening to, and discovering new music.
+short-description: A Spotify music player replica to listen to and discover new music.
 
 ---
 
